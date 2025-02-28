@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/Dart-3.0-blue?style=for-the-badge&logo=dart)
 
 ## 📌 Overview
-This is my first Flutter project—a simple login page with a responsive UI that adapts seamlessly to mobile, tablet, and web views. The app demonstrates the use of fundamental Flutter widgets and concepts such as `TextField`, `Buttons`, `Form Validation`, and `Navigation`.
+This is my first Flutter project—a simple login page with a responsive UI that adapts seamlessly to mobile, tablet, and web views. The app demonstrates the use of fundamental Flutter widgets and concepts such as `TextField`, `Buttons` and `Navigation`.
 
 ## ✨ Features
 ✅ Responsive UI (Mobile, Tablet, Web)  
