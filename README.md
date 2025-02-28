@@ -10,8 +10,7 @@ A new Flutter project.
 <img src="https://github.com/Thogaruchesti-hemanth/simple_login_in_flutter/blob/main/assets/tabView.png" height="400"/>
 
 # Web View
-<img src="https://github.com/Thogaruchesti-hemanth/simple_login_in_flutter/blob/main/assets/webView.png" height="400"/>
-
+<img src="https://github.com/Thogaruchesti-hemanth/simple_login_in_flutter/blob/main/assets/WebView.png" height="400"/>
 
 This project is a starting point for a Flutter application.
 
